@@ -166,7 +166,7 @@ footer a {
 label::after {
     content: "*";
     color: red;
-    margin-left:2px;
+    margin-left:4px;
 }
 
 .w-100{
